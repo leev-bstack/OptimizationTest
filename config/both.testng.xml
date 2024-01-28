@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SingleTest" parallel="methods">
+    <test name="SingleTest">
+        <classes>
+            <class name="org.demo.Optimized" />
+            <class name="org.demo.NonOptimized" />
+        </classes>
+    </test>
+</suite>
