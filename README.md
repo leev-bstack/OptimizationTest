@@ -1,6 +1,6 @@
 # BrowserStack TestNG CE demo
 
-BrowserStack CE demo repo using [BrowserStack Java SDK](https://mvnrepository.com/artifact/com.browserstack/browserstack-java-sdk).
+Repo for demonstrating Selenium command Optimization
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
