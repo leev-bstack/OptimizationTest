@@ -1,4 +1,4 @@
-# BrowserStack TestNG CE demo
+# Optimization test repo
 
 Repo for demonstrating Selenium command Optimization
 
